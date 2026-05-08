@@ -1,6 +1,6 @@
 # Fraud Detection Analytics Pipeline using Databricks & PySpark
 ## Project Overview
-Built an end-to-end fraud detection analytics pipeline on a large-scale financial transactions dataset containing 6.3M+ records.
+Built an end-to-end fraud detection analytics pipeline on a large-scale financial transactions dataset containing 6.3M+ records.  
 The project focused on identifying fraudulent transaction patterns, analyzing behavioral anomalies, and creating an interactive dashboard for fraud monitoring and risk analysis.
 
 The solution was developed using Databricks, PySpark, SQL, and Databricks Dashboards following a scalable data pipeline approach.
