@@ -138,8 +138,7 @@ This project demonstrates how scalable analytics pipelines can help financial in
 
 ## Future Improvements
 
-Real-time fraud streaming pipeline
-Machine learning fraud prediction model
-Automated fraud alert system
-Integration with Power BI/Tableau
-
+- Real-time fraud streaming pipeline
+- Machine learning fraud prediction model
+- Automated fraud alert system
+- Integration with Power BI/Tableau
