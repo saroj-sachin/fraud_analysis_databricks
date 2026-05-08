@@ -87,6 +87,8 @@ Conducted fraud-focused SQL analysis to identify behavioral patterns and busines
 ## Dashboard & Visualization
 Built an interactive fraud monitoring dashboard in Databricks.
 
+<img src="dashboard.png" width=750>
+
 **Dashboard Highlights**
 
 **KPI Metrics:**
