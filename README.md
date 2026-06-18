@@ -93,7 +93,9 @@ Built an interactive fraud monitoring dashboard in Tableau.
 
 **KPI Metrics:**
 - Total Transactions
+- Total Transaction Amount
 - Total Fraud Count
+- Total Fraud Amount
 - Fraud Rate
 
 **Visual Analysis:**
